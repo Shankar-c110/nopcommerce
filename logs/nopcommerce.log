@@ -1,0 +1,559 @@
+2025-11-11 12:36:48:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 12:36:48:INFO:**********************verification of admin login page title************************
+2025-11-11 12:36:49:INFO:**********************Test title verification title matched************************
+2025-11-11 12:36:52:INFO:**********************Test valid admin login started************************
+2025-11-11 12:37:00:INFO:**********************Test invalid admin login started************************
+2025-11-11 12:38:36:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 12:38:36:INFO:**********************verification of admin login page title************************
+2025-11-11 12:38:37:INFO:**********************Test title verification title matched************************
+2025-11-11 12:38:39:INFO:**********************Test valid admin login started************************
+2025-11-11 12:38:46:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:27:32:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:27:32:INFO:**********************verification of admin login page title************************
+2025-11-11 13:27:34:INFO:**********************Test title verification title matched************************
+2025-11-11 13:27:43:INFO:**********************Test valid admin login started************************
+2025-11-11 13:27:56:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:28:45:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:28:45:INFO:**********************verification of admin login page title************************
+2025-11-11 13:28:46:INFO:**********************Test title verification title matched************************
+2025-11-11 13:28:48:INFO:**********************Test valid admin login started************************
+2025-11-11 13:28:55:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:29:36:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:29:36:INFO:**********************verification of admin login page title************************
+2025-11-11 13:29:37:INFO:**********************Test title verification title matched************************
+2025-11-11 13:29:40:INFO:**********************Test valid admin login started************************
+2025-11-11 13:29:45:INFO:**********************Dashboard text found************************
+2025-11-11 13:29:47:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:47:37:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:47:37:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:47:37:INFO:**********************verification of admin login page title************************
+2025-11-11 13:47:37:INFO:**********************Test valid admin login started************************
+2025-11-11 13:47:38:INFO:**********************Test title verification title matched************************
+2025-11-11 13:48:32:INFO:**********************Test valid admin login started************************
+2025-11-11 13:48:32:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:48:32:INFO:**********************verification of admin login page title************************
+2025-11-11 13:48:32:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:48:34:INFO:**********************Test title verification title matched************************
+2025-11-11 13:49:24:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:49:24:INFO:**********************verification of admin login page title************************
+2025-11-11 13:49:24:INFO:**********************Test valid admin login started************************
+2025-11-11 13:49:25:INFO:**********************Test title verification title matched************************
+2025-11-11 13:49:28:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:56:48:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:56:48:INFO:**********************verification of admin login page title************************
+2025-11-11 13:56:54:INFO:**********************Test title verification title matched************************
+2025-11-11 13:56:56:INFO:**********************Test valid admin login started************************
+2025-11-11 13:57:02:INFO:**********************Test invalid admin login started************************
+2025-11-11 13:58:10:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 13:58:10:INFO:**********************verification of admin login page title************************
+2025-11-11 13:58:12:INFO:**********************Test title verification title matched************************
+2025-11-11 13:58:15:INFO:**********************Test valid admin login started************************
+2025-11-11 13:58:37:INFO:**********************Dashboard text found************************
+2025-11-11 13:58:39:INFO:**********************Test invalid admin login started************************
+2025-11-11 14:35:03:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 14:35:03:INFO:**********************verification of admin login page title************************
+2025-11-11 14:35:05:INFO:**********************Test title verification title matched************************
+2025-11-11 14:35:07:INFO:**********************Test valid admin login started************************
+2025-11-11 14:35:16:INFO:**********************Test invalid admin login started************************
+2025-11-11 14:35:35:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 14:35:35:INFO:**********************verification of admin login page title************************
+2025-11-11 14:35:44:INFO:**********************Test title verification title matched************************
+2025-11-11 14:35:46:INFO:**********************Test valid admin login started************************
+2025-11-11 14:35:55:INFO:**********************Test invalid admin login started************************
+2025-11-11 14:38:21:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 14:38:21:INFO:**********************verification of admin login page title************************
+2025-11-11 14:38:21:INFO:**********************Test valid admin login started************************
+2025-11-11 14:38:25:INFO:**********************Test title verification title matched************************
+2025-11-11 14:38:27:INFO:**********************Test invalid admin login started************************
+2025-11-11 14:39:26:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 14:39:26:INFO:**********************verification of admin login page title************************
+2025-11-11 14:39:26:INFO:**********************Test valid admin login started************************
+2025-11-11 14:39:26:INFO:**********************Test invalid admin login started************************
+2025-11-11 14:39:30:INFO:**********************Test title verification title matched************************
+2025-11-11 14:41:04:INFO:**********************Dashboard text found************************
+2025-11-11 18:48:39:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:49:48:INFO:test data is passed
+2025-11-11 18:51:53:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:52:02:INFO:test data is failed
+2025-11-11 18:52:33:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:53:02:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:53:27:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:53:36:INFO:test data is failed
+2025-11-11 18:54:02:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:54:14:INFO:test data is passed
+2025-11-11 18:55:19:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:57:33:INFO:test data is failed
+2025-11-11 18:57:56:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 18:59:41:INFO:test data is passed
+2025-11-11 19:05:47:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:06:10:INFO:test data is passed
+2025-11-11 19:10:58:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:11:09:INFO:test data is failed
+2025-11-11 19:11:19:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:11:34:INFO:test data is failed
+2025-11-11 19:11:57:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:12:10:INFO:test data is failed
+2025-11-11 19:12:43:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:14:39:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:14:59:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:15:18:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:17:50:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:18:03:INFO:test data is failed
+2025-11-11 19:18:28:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:20:56:INFO:test data is passed
+2025-11-11 19:24:18:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:24:32:INFO:test data is passed
+2025-11-11 19:25:07:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:25:18:INFO:test data is passed
+2025-11-11 19:28:06:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:28:16:INFO:test data is failed
+2025-11-11 19:28:42:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:28:52:INFO:test data is failed
+2025-11-11 19:29:22:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:29:33:INFO:test data is failed
+2025-11-11 19:29:55:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:34:16:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:36:29:INFO:test data is passed
+2025-11-11 19:38:16:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:38:47:INFO:test data is failed
+2025-11-11 19:39:02:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:39:28:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:41:57:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:43:57:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:46:10:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:48:18:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:50:53:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:51:05:INFO:test data is failed
+2025-11-11 19:51:20:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:52:07:INFO:test data is passed
+2025-11-11 19:56:42:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 19:58:57:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:00:57:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:01:11:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:03:01:INFO:test data is passed
+2025-11-11 20:03:23:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:03:51:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:04:10:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:06:26:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:06:38:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:06:52:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:07:06:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:07:40:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:07:54:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:08:06:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:08:23:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:08:40:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:08:52:INFO:test data is failed
+2025-11-11 20:11:04:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:11:43:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:14:38:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:21:00:INFO:**********************Test_01_Admin_Login************************
+2025-11-11 20:21:00:INFO:**********************verification of admin login page title************************
+2025-11-11 20:21:32:INFO:**********************Test title verification title mismatched************************
+2025-11-11 20:21:34:INFO:**********************Test valid admin login started************************
+2025-11-11 20:23:52:INFO:**********************Dashboard text found************************
+2025-11-11 20:23:54:INFO:**********************Test invalid admin login started************************
+2025-11-11 20:23:58:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:24:06:INFO:test data is failed
+2025-11-11 20:24:25:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:24:35:INFO:test data is failed
+2025-11-11 20:25:06:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:25:14:INFO:test data is failed
+2025-11-11 20:25:27:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:25:34:INFO:test data is failed
+2025-11-11 20:25:56:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:26:04:INFO:test data is failed
+2025-11-11 20:26:18:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:26:35:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:28:18:INFO:test data is passed
+2025-11-11 20:28:35:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-11 20:28:50:INFO:test data is failed
+2025-11-12 14:54:43:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 14:54:48:INFO:***************Login Completed**********************
+2025-11-12 14:54:48:INFO:***************starting add customer test *******************
+2025-11-12 14:55:19:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 14:55:24:INFO:***************Login Completed**********************
+2025-11-12 14:55:24:INFO:***************starting add customer test *******************
+2025-11-12 14:55:39:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 14:55:45:INFO:***************Login Completed**********************
+2025-11-12 14:55:45:INFO:***************starting add customer test *******************
+2025-11-12 14:58:52:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 14:59:00:INFO:***************Login Completed**********************
+2025-11-12 14:59:00:INFO:***************starting add customer test *******************
+2025-11-12 14:59:31:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 14:59:37:INFO:***************Login Completed**********************
+2025-11-12 14:59:37:INFO:***************starting add customer test *******************
+2025-11-12 15:02:39:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:02:44:INFO:***************Login Completed**********************
+2025-11-12 15:02:44:INFO:***************starting add customer test *******************
+2025-11-12 15:02:52:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E98CC07510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f85ac68aa28480850c040d9a7fc250d1/element
+2025-11-12 15:02:56:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E98CC1C110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f85ac68aa28480850c040d9a7fc250d1/element
+2025-11-12 15:03:00:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E98CC1CDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f85ac68aa28480850c040d9a7fc250d1/element
+2025-11-12 15:03:09:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:03:16:INFO:***************Login Completed**********************
+2025-11-12 15:03:16:INFO:***************starting add customer test *******************
+2025-11-12 15:04:01:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:04:05:INFO:***************Login Completed**********************
+2025-11-12 15:04:05:INFO:***************starting add customer test *******************
+2025-11-12 15:04:15:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DA15AC7510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/46a3773eb9758a7051f8f049db33291a/element
+2025-11-12 15:04:19:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DA15ADC110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/46a3773eb9758a7051f8f049db33291a/element
+2025-11-12 15:04:23:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DA15ADCDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/46a3773eb9758a7051f8f049db33291a/element
+2025-11-12 15:04:36:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:04:40:INFO:***************Login Completed**********************
+2025-11-12 15:04:40:INFO:***************starting add customer test *******************
+2025-11-12 15:04:49:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F94B637490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b4873dbf0671ff645e16b798b514923/element
+2025-11-12 15:04:53:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F94B637FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b4873dbf0671ff645e16b798b514923/element
+2025-11-12 15:04:57:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F94B64CD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b4873dbf0671ff645e16b798b514923/element
+2025-11-12 15:05:11:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:05:19:INFO:***************Login Completed**********************
+2025-11-12 15:05:19:INFO:***************starting add customer test *******************
+2025-11-12 15:08:16:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:08:21:INFO:***************Login Completed**********************
+2025-11-12 15:08:21:INFO:***************starting add customer test *******************
+2025-11-12 15:08:32:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:08:39:INFO:***************Login Completed**********************
+2025-11-12 15:08:39:INFO:***************starting add customer test *******************
+2025-11-12 15:10:51:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:10:55:INFO:***************Login Completed**********************
+2025-11-12 15:10:55:INFO:***************starting add customer test *******************
+2025-11-12 15:11:08:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:11:12:INFO:***************Login Completed**********************
+2025-11-12 15:11:12:INFO:***************starting add customer test *******************
+2025-11-12 15:11:21:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:11:26:INFO:***************Login Completed**********************
+2025-11-12 15:11:26:INFO:***************starting add customer test *******************
+2025-11-12 15:18:37:INFO:**********************Test_valid_admin_login_data_driven started************************
+2025-11-12 15:18:49:INFO:test data is passed
+2025-11-12 15:29:14:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:29:19:INFO:***************Login Completed**********************
+2025-11-12 15:29:19:INFO:***************starting add customer test *******************
+2025-11-12 15:29:48:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:29:55:INFO:***************Login Completed**********************
+2025-11-12 15:29:55:INFO:***************starting add customer test *******************
+2025-11-12 15:30:49:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:30:54:INFO:***************Login Completed**********************
+2025-11-12 15:30:54:INFO:***************starting add customer test *******************
+2025-11-12 15:31:21:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:31:25:INFO:***************Login Completed**********************
+2025-11-12 15:31:25:INFO:***************starting add customer test *******************
+2025-11-12 15:32:53:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:33:01:INFO:***************Login Completed**********************
+2025-11-12 15:33:01:INFO:***************starting add customer test *******************
+2025-11-12 15:34:26:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:34:31:INFO:***************Login Completed**********************
+2025-11-12 15:34:31:INFO:***************starting add customer test *******************
+2025-11-12 15:35:26:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:35:29:INFO:***************Login Completed**********************
+2025-11-12 15:35:29:INFO:***************starting add customer test *******************
+2025-11-12 15:35:42:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:35:47:INFO:***************Login Completed**********************
+2025-11-12 15:35:47:INFO:***************starting add customer test *******************
+2025-11-12 15:37:35:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:37:45:INFO:***************Login Completed**********************
+2025-11-12 15:37:45:INFO:***************starting add customer test *******************
+2025-11-12 15:38:23:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:38:28:INFO:***************Login Completed**********************
+2025-11-12 15:38:28:INFO:***************starting add customer test *******************
+2025-11-12 15:39:39:INFO:***********************Test_03_Add_New_customer started*************************
+2025-11-12 15:39:53:INFO:***************Login Completed**********************
+2025-11-12 15:39:53:INFO:***************starting add customer test *******************
+2025-11-12 15:49:36:INFO:******* Login Page *********
+2025-11-12 15:49:59:INFO:No popups appeared.
+2025-11-12 15:50:30:INFO:******* Login Page *********
+2025-11-12 15:57:25:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 15:57:32:INFO:******* Login Page *********
+2025-11-12 15:57:58:INFO:No popups appeared.
+2025-11-12 15:58:54:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 15:59:01:INFO:******* Login Page *********
+2025-11-12 15:59:28:INFO:No popups appeared.
+2025-11-12 16:01:48:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:01:55:INFO:******* Login Page *********
+2025-11-12 16:02:21:INFO:No popups appeared.
+2025-11-12 16:04:14:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:04:41:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:06:10:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:06:17:INFO:******* Login Page *********
+2025-11-12 16:06:46:INFO:No popups appeared.
+2025-11-12 16:09:49:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:09:56:INFO:******* Login Page *********
+2025-11-12 16:10:24:INFO:No popups appeared.
+2025-11-12 16:11:47:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:11:54:INFO:******* Login Page *********
+2025-11-12 16:12:19:INFO:No popups appeared.
+2025-11-12 16:16:41:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:16:48:INFO:******* Login Page *********
+2025-11-12 16:17:14:INFO:No popups appeared.
+2025-11-12 16:24:49:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:24:56:INFO:******* Login Page *********
+2025-11-12 16:25:25:INFO:No popups appeared.
+2025-11-12 16:26:53:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:27:00:INFO:******* Login Page *********
+2025-11-12 16:27:26:INFO:No popups appeared.
+2025-11-12 16:44:17:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:44:24:INFO:******* Login Page *********
+2025-11-12 16:44:50:INFO:No popups appeared.
+2025-11-12 16:45:44:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:45:52:INFO:******* Login Page *********
+2025-11-12 16:46:13:INFO:No popups appeared.
+2025-11-12 16:46:50:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:46:56:INFO:******* Login Page *********
+2025-11-12 16:47:17:INFO:No popups appeared.
+2025-11-12 16:48:45:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:48:52:INFO:******* Login Page *********
+2025-11-12 16:49:18:INFO:No popups appeared.
+2025-11-12 16:50:02:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:50:09:INFO:******* Login Page *********
+2025-11-12 16:50:35:INFO:No popups appeared.
+2025-11-12 16:53:15:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:53:21:INFO:******* Login Page *********
+2025-11-12 16:53:42:INFO:No popups appeared.
+2025-11-12 16:54:14:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 16:54:20:INFO:******* Login Page *********
+2025-11-12 16:54:41:INFO:No popups appeared.
+2025-11-12 17:01:07:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:01:14:INFO:******* Login Page *********
+2025-11-12 17:01:34:INFO:No popups appeared.
+2025-11-12 17:02:10:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:02:17:INFO:******* Login Page *********
+2025-11-12 17:02:43:INFO:No popups appeared.
+2025-11-12 17:06:03:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:06:12:INFO:******* Login Page *********
+2025-11-12 17:06:40:INFO:No popups appeared.
+2025-11-12 17:22:30:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:22:38:INFO:******* Login Page *********
+2025-11-12 17:23:04:INFO:No popups appeared.
+2025-11-12 17:30:39:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:30:46:INFO:******* Login Page *********
+2025-11-12 17:31:14:INFO:No popups appeared.
+2025-11-12 17:34:03:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:34:11:INFO:******* Login Page *********
+2025-11-12 17:34:38:INFO:No popups appeared.
+2025-11-12 17:40:01:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:40:08:INFO:******* Login Page *********
+2025-11-12 17:40:37:INFO:No popups appeared.
+2025-11-12 17:44:50:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:44:58:INFO:******* Login Page *********
+2025-11-12 17:45:24:INFO:No popups appeared.
+2025-11-12 17:50:40:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:50:50:INFO:******* Login Page *********
+2025-11-12 17:51:16:INFO:No popups appeared.
+2025-11-12 17:51:31:INFO:Customer added successfully!
+2025-11-12 17:52:08:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:52:16:INFO:******* Login Page *********
+2025-11-12 17:52:48:INFO:No popups appeared.
+2025-11-12 17:53:01:INFO:Customer added successfully!
+2025-11-12 17:54:13:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 17:54:21:INFO:******* Login Page *********
+2025-11-12 17:54:46:INFO:No popups appeared.
+2025-11-12 17:55:00:INFO:Customer added successfully!
+2025-11-12 18:11:46:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 18:11:54:INFO:******* Login Page *********
+2025-11-12 18:12:19:INFO:No popups appeared.
+2025-11-12 18:17:26:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 18:17:34:INFO:******* Login Page *********
+2025-11-12 18:18:03:INFO:No popups appeared.
+2025-11-12 18:19:03:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 18:19:09:INFO:******* Login Page *********
+2025-11-12 18:19:34:INFO:No popups appeared.
+2025-11-12 18:19:47:INFO:Customer added successfully!
+2025-11-12 18:20:02:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-12 18:20:17:INFO:******* Login Page *********
+2025-11-12 18:20:43:INFO:No popups appeared.
+2025-11-13 12:17:03:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:17:12:INFO:******* Login Page *********
+2025-11-13 12:17:17:INFO:******* Login Page successfull *********
+2025-11-13 12:29:11:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:29:18:INFO:******* Login Page *********
+2025-11-13 12:29:40:INFO:******* Login Page successfull *********
+2025-11-13 12:33:56:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:35:01:INFO:******* Login Page *********
+2025-11-13 12:35:21:INFO:******* Login Page successfull *********
+2025-11-13 12:37:30:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:37:48:INFO:******* Login Page *********
+2025-11-13 12:39:02:INFO:******* Login Page successfull *********
+2025-11-13 12:41:01:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:41:09:INFO:******* Login Page *********
+2025-11-13 12:42:08:INFO:******* Login Page successfull *********
+2025-11-13 12:46:04:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:46:10:INFO:******* Login Page *********
+2025-11-13 12:46:18:INFO:******* Login Page successfull *********
+2025-11-13 12:48:17:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:48:24:INFO:******* Login Page *********
+2025-11-13 12:49:08:INFO:******* Login Page successfull *********
+2025-11-13 12:54:17:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 12:54:23:INFO:******* Login Page *********
+2025-11-13 12:54:30:INFO:******* Login Page successfull *********
+2025-11-13 13:00:37:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 13:00:44:INFO:******* Login Page *********
+2025-11-13 13:01:02:INFO:******* Login Page successfull *********
+2025-11-13 13:02:17:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 13:02:25:INFO:******* Login Page *********
+2025-11-13 13:02:29:INFO:******* Login Page successfull *********
+2025-11-13 13:10:34:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 13:10:42:INFO:******* Login Page *********
+2025-11-13 13:11:51:INFO:******* Login Page successfull *********
+2025-11-13 14:02:18:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:02:26:INFO:******* Login Page *********
+2025-11-13 14:02:35:INFO:******* Login Page successfull *********
+2025-11-13 14:02:38:INFO:******* Login Page *********
+2025-11-13 14:02:43:INFO:******* Login Page successfull *********
+2025-11-13 14:02:47:INFO:******* Login Page *********
+2025-11-13 14:03:01:INFO:******* Login Page successfull *********
+2025-11-13 14:05:22:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:05:32:INFO:******* Login Page *********
+2025-11-13 14:05:55:INFO:******* Login Page successfull *********
+2025-11-13 14:06:27:INFO:******* Login Page *********
+2025-11-13 14:06:28:INFO:******* Login Page successfull *********
+2025-11-13 14:06:31:INFO:******* Login Page *********
+2025-11-13 14:06:39:INFO:******* Login Page successfull *********
+2025-11-13 14:09:48:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:10:03:INFO:******* Login Page *********
+2025-11-13 14:10:04:INFO:******* Login Page successfull *********
+2025-11-13 14:10:04:INFO:******* navigating to customer search Page **********
+2025-11-13 14:10:17:INFO:******* Login Page *********
+2025-11-13 14:12:22:INFO:******* Login Page *********
+2025-11-13 14:12:23:INFO:******* Login Page successfull *********
+2025-11-13 14:12:30:INFO:******* navigating to customer search Page **********
+2025-11-13 14:18:14:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:18:24:INFO:******* Login Page *********
+2025-11-13 14:20:34:INFO:******* Login Page *********
+2025-11-13 14:21:48:INFO:******* Login Page successfull *********
+2025-11-13 14:21:48:INFO:******* navigating to customer search Page **********
+2025-11-13 14:22:06:INFO:******* Login Page *********
+2025-11-13 14:22:12:INFO:******* Login Page successfull *********
+2025-11-13 14:22:12:INFO:******* navigating to customer search Page **********
+2025-11-13 14:24:56:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:25:04:INFO:******* Login Page *********
+2025-11-13 14:25:20:INFO:******* Login Page successfull *********
+2025-11-13 14:25:20:INFO:******* navigating to customer search Page **********
+2025-11-13 14:25:36:INFO:******* Login Page *********
+2025-11-13 14:25:49:INFO:******* Login Page successfull *********
+2025-11-13 14:25:49:INFO:******* navigating to customer search Page **********
+2025-11-13 14:26:07:INFO:******* Login Page *********
+2025-11-13 14:26:08:INFO:******* Login Page successfull *********
+2025-11-13 14:26:08:INFO:******* navigating to customer search Page **********
+2025-11-13 14:27:12:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:27:25:INFO:******* Login Page *********
+2025-11-13 14:29:30:INFO:******* Login Page *********
+2025-11-13 14:31:03:INFO:******* Login Page successfull *********
+2025-11-13 14:31:08:INFO:******* Login Page *********
+2025-11-13 14:31:09:INFO:******* Login Page successfull *********
+2025-11-13 14:32:13:INFO:******* Login Page *********
+2025-11-13 14:32:16:INFO:******* Login Page successfull *********
+2025-11-13 14:32:16:INFO:******* navigating to customer search Page **********
+2025-11-13 14:32:29:INFO:******* Login Page *********
+2025-11-13 14:32:30:INFO:******* Login Page successfull *********
+2025-11-13 14:32:32:INFO:******* navigating to customer search Page **********
+2025-11-13 14:32:41:INFO:******* Login Page *********
+2025-11-13 14:32:45:INFO:******* Login Page successfull *********
+2025-11-13 14:33:21:INFO:******* Login Page *********
+2025-11-13 14:34:07:INFO:******* Login Page successfull *********
+2025-11-13 14:34:08:INFO:******* navigating to customer search Page **********
+2025-11-13 14:34:28:INFO:******* Login Page *********
+2025-11-13 14:34:32:INFO:******* Login Page successfull *********
+2025-11-13 14:34:32:INFO:******* navigating to customer search Page **********
+2025-11-13 14:34:44:INFO:******* Login Page *********
+2025-11-13 14:34:45:INFO:******* Login Page successfull *********
+2025-11-13 14:34:45:INFO:******* navigating to customer search Page **********
+2025-11-13 14:35:02:INFO:******* Login Page *********
+2025-11-13 14:35:04:INFO:******* Login Page successfull *********
+2025-11-13 14:35:04:INFO:******* navigating to customer search Page **********
+2025-11-13 14:35:21:INFO:******* Login Page *********
+2025-11-13 14:35:26:INFO:******* Login Page successfull *********
+2025-11-13 14:35:26:INFO:******* navigating to customer search Page **********
+2025-11-13 14:35:37:INFO:******* Login Page *********
+2025-11-13 14:35:37:INFO:******* Login Page successfull *********
+2025-11-13 14:35:37:INFO:******* navigating to customer search Page **********
+2025-11-13 14:36:29:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:36:38:INFO:******* Login Page *********
+2025-11-13 14:36:45:INFO:******* Login Page successfull *********
+2025-11-13 14:36:45:INFO:******* navigating to customer search Page **********
+2025-11-13 14:36:59:INFO:******* Login Page *********
+2025-11-13 14:37:05:INFO:******* Login Page successfull *********
+2025-11-13 14:37:05:INFO:******* navigating to customer search Page **********
+2025-11-13 14:37:12:INFO:******* Starting customer search by name **********
+2025-11-13 14:37:21:INFO:******* Login Page *********
+2025-11-13 14:37:23:INFO:******* Login Page successfull *********
+2025-11-13 14:37:25:INFO:******* navigating to customer search Page **********
+2025-11-13 14:39:26:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:39:38:INFO:******* Login Page *********
+2025-11-13 14:41:55:INFO:******* Login Page *********
+2025-11-13 14:41:56:INFO:******* Login Page successfull *********
+2025-11-13 14:41:56:INFO:******* navigating to customer search Page **********
+2025-11-13 14:42:13:INFO:******* Login Page *********
+2025-11-13 14:46:30:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 14:46:43:INFO:******* Login Page *********
+2025-11-13 14:48:16:INFO:******* Login Page successfull *********
+2025-11-13 15:12:16:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 15:12:30:INFO:******* Login Page *********
+2025-11-13 15:14:32:INFO:**********************Test valid admin login started************************
+2025-11-13 15:14:38:INFO:**********************Dashboard text found************************
+2025-11-13 15:14:41:INFO:******* Login Page *********
+2025-11-13 15:14:47:INFO:******* Login Page successfull *********
+2025-11-13 15:14:47:INFO:******* navigating to customer search Page **********
+2025-11-13 15:16:22:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 15:16:29:INFO:******* Login Page *********
+2025-11-13 15:16:54:INFO:No popups appeared.
+2025-11-13 15:17:08:INFO:Customer added successfully!
+2025-11-13 15:17:09:INFO:**********************Test valid admin login started************************
+2025-11-13 15:17:24:INFO:**********************Dashboard text found************************
+2025-11-13 15:17:28:INFO:******* Login Page *********
+2025-11-13 15:20:30:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 15:20:38:INFO:******* Login Page *********
+2025-11-13 15:21:46:INFO:No popups appeared.
+2025-11-13 15:22:40:INFO:**********************Test valid admin login started************************
+2025-11-13 15:24:39:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 15:24:46:INFO:******* Login Page *********
+2025-11-13 15:25:21:INFO:No popups appeared.
+2025-11-13 15:27:06:INFO:**********************Test valid admin login started************************
+2025-11-13 15:27:13:INFO:**********************Dashboard text found************************
+2025-11-13 15:27:22:INFO:******* Login Page *********
+2025-11-13 15:27:32:INFO:******* Login Page successfull *********
+2025-11-13 15:27:32:INFO:******* navigating to customer search Page **********
+2025-11-13 15:27:35:INFO:******* Starting customer search by email **********
+2025-11-13 15:28:13:INFO:patching driver executable C:\Users\Gowrishankar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-11-13 15:28:23:INFO:******* Login Page *********
+2025-11-13 15:30:26:INFO:**********************Test valid admin login started************************
+2025-11-13 15:30:33:INFO:**********************Dashboard text found************************
+2025-11-13 15:30:36:INFO:******* Login Page *********
+2025-11-13 15:30:42:INFO:******* Login Page successfull *********
+2025-11-13 15:30:42:INFO:******* navigating to customer search Page **********
+2025-11-13 16:25:09:INFO:******* Login Page *********
+2025-11-13 16:25:17:INFO:No popups appeared.
+2025-11-13 16:25:21:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001859C5467D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f86402cab6df318df222b7ec27307cbd/element
+2025-11-13 16:25:25:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001859C547150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f86402cab6df318df222b7ec27307cbd/element
+2025-11-13 16:25:29:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001859C547C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f86402cab6df318df222b7ec27307cbd/element
+2025-11-13 16:25:38:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001859D1A13D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f86402cab6df318df222b7ec27307cbd
+2025-11-13 16:25:42:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001859D1A2410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f86402cab6df318df222b7ec27307cbd
+2025-11-13 16:25:46:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001859D1A3910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f86402cab6df318df222b7ec27307cbd
+2025-11-13 16:25:59:INFO:******* Login Page *********
+2025-11-13 16:26:05:INFO:No popups appeared.
+2025-11-13 16:26:09:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021010AC2CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81d652b4a0f39a65558676c6ae8fdce/element
+2025-11-13 16:26:13:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021010AC35D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81d652b4a0f39a65558676c6ae8fdce/element
+2025-11-13 16:26:17:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021010ADC110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81d652b4a0f39a65558676c6ae8fdce/element
+2025-11-13 16:26:26:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210117214D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81d652b4a0f39a65558676c6ae8fdce
+2025-11-13 16:26:30:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210117223D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81d652b4a0f39a65558676c6ae8fdce
+2025-11-13 16:26:34:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021011723A10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81d652b4a0f39a65558676c6ae8fdce
+2025-11-13 16:26:40:INFO:**********************Test valid admin login started************************
+2025-11-13 16:26:48:INFO:******* Login Page *********
+2025-11-13 16:26:49:INFO:******* Login Page successfull *********
+2025-11-13 16:26:50:INFO:******* navigating to customer search Page **********
+2025-11-13 16:27:50:INFO:******* Login Page *********
+2025-11-13 16:27:56:INFO:No popups appeared.
+2025-11-13 16:28:05:INFO:******* Login Page *********
+2025-11-13 16:28:17:INFO:No popups appeared.
+2025-11-13 16:28:26:INFO:******* Login Page *********
+2025-11-13 16:28:34:INFO:No popups appeared.
+2025-11-13 16:28:38:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001722FF82E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/26c9b90281829c7adeebb9e4316856c6/element
+2025-11-13 16:29:14:INFO:******* Login Page *********
+2025-11-13 16:29:35:INFO:No popups appeared.
+2025-11-13 16:29:56:INFO:******* Login Page *********
+2025-11-13 16:30:18:INFO:No popups appeared.
+2025-11-13 16:30:43:INFO:**********************Test valid admin login started************************
+2025-11-13 16:30:50:INFO:**********************Dashboard text found************************
+2025-11-13 16:30:55:INFO:******* Login Page *********
+2025-11-13 16:30:56:INFO:******* Login Page successfull *********
+2025-11-13 16:30:56:INFO:******* navigating to customer search Page **********
+2025-11-13 16:31:05:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000215338F8550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b301b83e054db2e8263a098b2867f2ae
+2025-11-13 16:31:10:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000215338F8A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b301b83e054db2e8263a098b2867f2ae
+2025-11-13 16:31:14:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000215338F94D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b301b83e054db2e8263a098b2867f2ae
