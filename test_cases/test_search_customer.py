@@ -3,11 +3,11 @@ import time
 import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from nopcommerce.Utilities.custom_logger import Log_Maker
-from nopcommerce.Utilities.read_properties import Read_Config
-from nopcommerce.base_pages.Add_Customer_Page import Add_Customer_Page
-from nopcommerce.base_pages.Login_Admin_Page import Login_Admin_Page
-from nopcommerce.base_pages.Search_Customer_Page import Search_Customer_Page
+from Nopcommerce_selenium.Utilities.custom_logger import Log_Maker
+from Nopcommerce_selenium.Utilities.read_properties import Read_Config
+from Nopcommerce_selenium.base_pages.Add_Customer_Page import Add_Customer_Page
+from Nopcommerce_selenium.base_pages.Login_Admin_Page import Login_Admin_Page
+from Nopcommerce_selenium.base_pages.Search_Customer_Page import Search_Customer_Page
 
 
 class Test_03_Search_Customer:

@@ -5,9 +5,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from nopcommerce.base_pages.Login_Admin_Page import Login_Admin_Page
-from nopcommerce.Utilities.read_properties import Read_Config
-from nopcommerce.Utilities.custom_logger import Log_Maker
+from Nopcommerce_selenium.base_pages.Login_Admin_Page import Login_Admin_Page
+from Nopcommerce_selenium.Utilities.read_properties import Read_Config
+from Nopcommerce_selenium.Utilities.custom_logger import Log_Maker
 
 class Test_01_Admin_Login:
     admin_page_url = Read_Config.get_admin_page_url()
